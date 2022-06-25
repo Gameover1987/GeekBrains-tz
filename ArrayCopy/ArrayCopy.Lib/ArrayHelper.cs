@@ -1,8 +1,8 @@
 ﻿namespace ArrayCopy.Lib
 {
-    public static class ArrayHelper<T>
+    public static class ArrayHelper
     {
-        public static T[] MakeCopy(T[] sourceArray)
+        public static T[] MakeCopy<T>(this T[] sourceArray)
         {
             T[] resultArray = new T[sourceArray.LongLength];
 

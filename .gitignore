@@ -1,3 +1,7 @@
 ArrayCopy/.vs/ArrayCopy/
 ArrayCopy/ArrayCopy.Lib/obj/
 ArrayCopy/.vs/
+ArrayCopy/ArrayCopy.Lib/bin/
+ArrayCopy/ArrayCopy.Test/bin/
+ArrayCopy/ArrayCopy.Test/obj/
+*.user
